@@ -1,0 +1,15 @@
+D:\Parthiban\Workiy\platforms\windows\build\phone\Debug\AnyCPU\ReverseMap\resources.pri
+D:\Parthiban\Workiy\platforms\windows\build\phone\Debug\AnyCPU\AppxManifest.xml
+D:\Parthiban\Workiy\platforms\windows\build\phone\Debug\AnyCPU\CordovaApp.Phone.build.appxrecipe
+D:\Parthiban\Workiy\platforms\windows\build\phone\bld\priconfig.xml
+D:\Parthiban\Workiy\platforms\windows\build\phone\bld\priconfig.xml.intermediate
+D:\Parthiban\Workiy\platforms\windows\build\phone\bld\layout.resfiles
+D:\Parthiban\Workiy\platforms\windows\build\phone\bld\layout.resfiles.intermediate
+D:\Parthiban\Workiy\platforms\windows\build\phone\bld\resources.resfiles
+D:\Parthiban\Workiy\platforms\windows\build\phone\bld\resources.resfiles.intermediate
+D:\Parthiban\Workiy\platforms\windows\build\phone\bld\pri.resfiles
+D:\Parthiban\Workiy\platforms\windows\build\phone\bld\pri.resfiles.intermediate
+D:\Parthiban\Workiy\platforms\windows\build\phone\bld\qualifiers.txt
+D:\Parthiban\Workiy\platforms\windows\build\phone\bld\qualifiers.txt.intermediate
+D:\Parthiban\Workiy\platforms\windows\build\phone\bld\MultipleQualifiersPerDimensionFound.txt
+D:\Parthiban\Workiy\platforms\windows\build\phone\bld\ProjectArchitectures.txt
